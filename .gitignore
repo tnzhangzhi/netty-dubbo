@@ -1,0 +1,27 @@
+.idea/workspace.xml
+
+# Mac
+.DS_Store
+
+# Maven
+target
+overlays
+dependency-reduced-pom.xml
+
+# Eclipse
+.metadata
+.externalToolBuilders
+.checkstyle
+.classpath
+.pmd
+.project
+.ruleset
+.settings
+#bin
+
+derby.log
+
+# IntelliJ IDEA
+*.idea
+*.iml
+
